@@ -1,0 +1,50 @@
+[
+  {
+    "class_name": "🍨你好同志",
+    "class_desc": "线下最亲密的同志和最要好的朋友。solitude and expectation coexist…",
+    "link_list": [
+      {
+        "name": "修丁の博客",
+        "link": "https://hexo.io/zh-tw/",
+        "avatar": "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg",
+        "descr": "快速、简单且强大的网志框架"
+      }
+    ]
+  },
+  {
+    "class_name": "📮南极圈の百鸟图",
+    "class_desc": "南极圈精选，推荐阅读",
+    "link_list": [
+      {
+        "name": "马克思主义研究网",
+        "link": "http://marxism.cass.cn/",
+        "avatar": "https://th.bing.com/th?id=ODLS.79eb07bc-9b77-4551-a420-db8d0fc53ec1&w=32&h=32&qlt=95&pcl=fffffa&r=0&o=6&pid=1.2",
+        "descr": "马克思主义学术研究网站（这里都是现成的马克思主义研究成果，主要是给刚入门的同志们）"
+      },
+      {
+        "name": "马克思主义文库",
+        "link": "https://www.marxists.org/chinese/index.html",
+        "avatar": "https://th.bing.com/th?id=ODLS.5fccfc76-74f1-4cbf-bfb1-2d9052cef7c8&w=32&h=32&qlt=90&pcl=fffffa&r=0&o=6&pid=1.2",
+        "descr": "非营利性质的网络公共图书馆（这里收集了大量的社会主义论证，请不要相信主观言论）"
+      },
+      {
+        "name": "共产党员网",
+        "link": "https://www.12371.cn/",
+        "avatar": "https://th.bing.com/th?id=ODLS.4d6d170a-af8b-4460-98a7-4a896270874a&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=13&pid=1.2",
+        "descr": "党员教育平台（要用知识武装自己）"
+      }
+    ]
+  },
+  {
+    "class_name": "🐉南极圈の至尊鸟",
+    "class_desc": "技术大牛，轮子缔造者",
+    "link_list": [
+      {
+        "name": "Akilarの糖果屋",
+        "link": "https://akilar.top/",
+        "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
+        "descr": "欢迎光临糖果屋"
+      }
+    ]
+  }
+]
